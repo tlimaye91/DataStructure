@@ -73,7 +73,15 @@
 		94567B46234D996E00817B19 /* DataStructures */ = {
 			isa = PBXGroup;
 			children = (
+				94567B5E234D9CD400817B19 /* Linklist */,
 				94567B47234D996E00817B19 /* main.swift */,
+			);
+			path = DataStructures;
+			sourceTree = "<group>";
+		};
+		94567B5E234D9CD400817B19 /* Linklist */ = {
+			isa = PBXGroup;
+			children = (
 				94567B4E234D998100817B19 /* Linkedlist.swift */,
 				94567B50234D9A1500817B19 /* PrintLinkedlist.swift */,
 				94567B52234D9A1F00817B19 /* AppendLinkedList.swift */,
@@ -83,7 +91,7 @@
 				94567B5A234D9AFA00817B19 /* DetectALoopLinklist.swift */,
 				94567B5C234D9B1C00817B19 /* CountLinklist.swift */,
 			);
-			path = DataStructures;
+			path = Linklist;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
