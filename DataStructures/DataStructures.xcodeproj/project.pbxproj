@@ -16,6 +16,7 @@
 		94567B59234D9AD900817B19 /* MiddleOfLinklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94567B58234D9AD900817B19 /* MiddleOfLinklist.swift */; };
 		94567B5B234D9AFA00817B19 /* DetectALoopLinklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94567B5A234D9AFA00817B19 /* DetectALoopLinklist.swift */; };
 		94567B5D234D9B1C00817B19 /* CountLinklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94567B5C234D9B1C00817B19 /* CountLinklist.swift */; };
+		945F6FE7234EEDEF002D2D1D /* IsAPalindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 945F6FE6234EEDEF002D2D1D /* IsAPalindromeLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		94567B58234D9AD900817B19 /* MiddleOfLinklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiddleOfLinklist.swift; sourceTree = "<group>"; };
 		94567B5A234D9AFA00817B19 /* DetectALoopLinklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectALoopLinklist.swift; sourceTree = "<group>"; };
 		94567B5C234D9B1C00817B19 /* CountLinklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountLinklist.swift; sourceTree = "<group>"; };
+		945F6FE6234EEDEF002D2D1D /* IsAPalindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsAPalindromeLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				94567B58234D9AD900817B19 /* MiddleOfLinklist.swift */,
 				94567B5A234D9AFA00817B19 /* DetectALoopLinklist.swift */,
 				94567B5C234D9B1C00817B19 /* CountLinklist.swift */,
+				945F6FE6234EEDEF002D2D1D /* IsAPalindromeLinkedList.swift */,
 			);
 			path = Linklist;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				94567B4F234D998100817B19 /* Linkedlist.swift in Sources */,
 				94567B57234D9AC100817B19 /* SearchLinklist.swift in Sources */,
 				94567B59234D9AD900817B19 /* MiddleOfLinklist.swift in Sources */,
+				945F6FE7234EEDEF002D2D1D /* IsAPalindromeLinkedList.swift in Sources */,
 				94567B51234D9A1500817B19 /* PrintLinkedlist.swift in Sources */,
 				94567B48234D996E00817B19 /* main.swift in Sources */,
 			);
